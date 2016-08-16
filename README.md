@@ -8,9 +8,8 @@ install_package "rubygems-1.3.7" "https://rubygems.org/rubygems/rubygems-1.3.7.t
 
 2. Download the file manually and verify it matches the sha256 digest given:
 
-```
-> wget https://cache.ruby-lang.org/pub/ruby/1.8/ruby-1.8.6.tar.bz2
-> openssl dgst -sha256 ruby-1.8.6.tar.bz2
+```wget https://cache.ruby-lang.org/pub/ruby/1.8/ruby-1.8.6.tar.bz2
+openssl dgst -sha256 ruby-1.8.6.tar.bz2
 SHA256(ruby-1.8.6.tar.bz2)= 0fc6ad0b31d8ec3997db2a56a2ac1c235283a3607abb876300fc711b3f8e3dd7
 ```
 
